@@ -1,5 +1,27 @@
 
 
+## Client
+
+
+build with webpack
+
+    npm run build
+
+luanch server
+
+
+    npx http-server
+
+
+## Server
+
+
+    npm run dev
+
+
+## Credits (show more)
+
+
 https://tsh.io/blog/socket-io-tutorial-real-time-communication/
 
 
